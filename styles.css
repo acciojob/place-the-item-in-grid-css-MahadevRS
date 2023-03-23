@@ -3,5 +3,5 @@
 .holder{
 	display:grid;
 	width:200px;
-	grid-template-columns: auto auto;
+	grid-template-columns: 100px 100px;
 }
